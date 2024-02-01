@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/karan_chandra_portfolio/static/css/main.9f35ce89.css",
+    "main.js": "/karan_chandra_portfolio/static/js/main.0c357adc.js",
+    "static/js/787.6404f804.chunk.js": "/karan_chandra_portfolio/static/js/787.6404f804.chunk.js",
+    "static/media/sam.jpg": "/karan_chandra_portfolio/static/media/sam.b4113f814fb1642c7c76.jpg",
+    "static/media/travel-log.png": "/karan_chandra_portfolio/static/media/travel-log.0a4c285a42ce020afa8f.png",
+    "static/media/shopping-app.png": "/karan_chandra_portfolio/static/media/shopping-app.f52549c438a8a25ac891.png",
+    "static/media/courseApp.png": "/karan_chandra_portfolio/static/media/courseApp.1940fb32e189d03cf7c9.png",
+    "static/media/Pencil.jpg": "/karan_chandra_portfolio/static/media/Pencil.7d7824c6cd991eb49ce4.jpg",
+    "static/media/monorepo.png": "/karan_chandra_portfolio/static/media/monorepo.4254b21557913afe0c6c.png",
+    "static/media/frontend-challenges.png": "/karan_chandra_portfolio/static/media/frontend-challenges.20dfb1a3bcd4e16d96c0.png",
+    "static/media/chess.png": "/karan_chandra_portfolio/static/media/chess.03837027ceb5624a8edf.png",
+    "static/media/memes.png": "/karan_chandra_portfolio/static/media/memes.1a4d6aed2206f52d3ac6.png",
+    "static/media/bookheap.png": "/karan_chandra_portfolio/static/media/bookheap.b53863c80ef2d67c7497.png",
+    "static/media/superhero.png": "/karan_chandra_portfolio/static/media/superhero.4774059e1e0b8f9e1af3.png",
+    "static/media/chatGPT.png": "/karan_chandra_portfolio/static/media/chatGPT.831ad3842cb17f74e1d4.png",
+    "static/media/definition.png": "/karan_chandra_portfolio/static/media/definition.b7bce9bf622bff116c67.png",
+    "static/media/Hello.jpg": "/karan_chandra_portfolio/static/media/Hello.690bd2dd2915cc564f69.jpg",
+    "static/media/instagram.png": "/karan_chandra_portfolio/static/media/instagram.75cc30ef02584efab9dc.png",
+    "static/media/gmail.png": "/karan_chandra_portfolio/static/media/gmail.86da95ec87154ba47a18.png",
+    "static/media/twitter.png": "/karan_chandra_portfolio/static/media/twitter.e116e76bd5a644d2826d.png",
+    "index.html": "/karan_chandra_portfolio/index.html",
+    "main.9f35ce89.css.map": "/karan_chandra_portfolio/static/css/main.9f35ce89.css.map",
+    "main.0c357adc.js.map": "/karan_chandra_portfolio/static/js/main.0c357adc.js.map",
+    "787.6404f804.chunk.js.map": "/karan_chandra_portfolio/static/js/787.6404f804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f35ce89.css",
+    "static/js/main.0c357adc.js"
+  ]
+}
